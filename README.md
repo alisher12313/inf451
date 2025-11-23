@@ -472,7 +472,7 @@ cd assignment-service
 
 Разработано с ❤️ **Гульнур**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisher12313)
 
 </div>
 
